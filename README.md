@@ -18,7 +18,7 @@ Instead of fully fine-tuning a large multilingual model, we:
 - Baseline XLM-R F1: **0.13**  
 - LoRA + Cross-Lingual Transfer F1: **0.72+**  
 
-This is a ~4× improvement on a low-resource language.
+This is a ~7× improvement on a low-resource language.
 
 ---
 ![Architecture Diagram](architecture.png)
