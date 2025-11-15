@@ -21,6 +21,8 @@ Instead of fully fine-tuning a large multilingual model, we:
 This is a ~4× improvement on a low-resource language.
 
 ---
+![Architecture Diagram](architecture.png)
+
 
 ## 🎯 Key Features
 
