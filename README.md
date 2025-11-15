@@ -21,7 +21,7 @@ Instead of fully fine-tuning a large multilingual model, we:
 This is a ~7× improvement on a low-resource language.
 
 ---
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](/assets/architecture.png)
 
 
 ## 🎯 Key Features
@@ -52,6 +52,8 @@ However, Assamese shares:
 We exploit this using **cross-lingual alignment** + **LoRA**.
 
 ---
+![Architecture Diagram](assets/Loss_curve.png)
+
 
 ## 📦 Dataset Sources
 
