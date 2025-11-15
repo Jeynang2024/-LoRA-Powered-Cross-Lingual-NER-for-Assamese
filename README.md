@@ -31,7 +31,6 @@ This is a ~7× improvement on a low-resource language.
 - ✨ **Works with extremely small Assamese datasets**
 - 🧠 **Subword token–label alignment for accuracy**
 - 💾 **Only adapter weights saved (very lightweight)**
-- 🚀 **Fast training (15–20 minutes on Kaggle T4)**
 
 ---
 
